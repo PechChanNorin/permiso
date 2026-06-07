@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Permiso",
+  "description": "Digital Student Permission and Absence Management System with role-based control for admins, teachers, students, and parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
